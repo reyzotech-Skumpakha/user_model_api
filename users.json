@@ -1,12 +1,12 @@
 [
 {
   "username": "user1",
-  "dob": "1990-01-01T00:00:00Z",
+  "dob": "2023-12-25",
   "yearFormat": "ad"
 },
 {
   "username": "user2",
-  "dob": "1985-05-15T00:00:00Z",
+  "dob": "2023-12-26",
   "yearFormat": null
 },
 {
