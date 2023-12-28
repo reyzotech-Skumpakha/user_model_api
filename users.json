@@ -1,17 +1,19 @@
-[
 {
-  "username": "user1",
-  "dob": "2000-01-01",
-  "yearFormat": "ad"
-},
-{
-  "username": "user2",
-  "dob": "1999-01-01",
-  "yearFormat": null
-},
-{
-  "username": "user3",
-  "dob": null,
-  "yearFormat": "bs"
+  "users": [
+    {
+      "username": "user1",
+      "dob": "2000-01-01",
+      "yearFormat": "ad"
+    },
+    {
+      "username": "user2",
+      "dob": "1999-01-01",
+      "yearFormat": null
+    },
+    {
+      "username": "user3",
+      "dob": null,
+      "yearFormat": "bs"
+    }
+  ]
 }
-]
