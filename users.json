@@ -1,17 +1,53 @@
 [
   {
-    "username": "user1",
-    "dob": "2000-01-01",
-    "yearFormat": "ad"
-  },
+  "name": "Sabin",
+  "image": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "dob": "2000-01-01",
+  "yearFormat": "ad",
+  "address": {
+      "province": "Bagmati",
+      "district": "Bhaktapur",
+      "city": "Bhaktapur",
+      "wardNum": "06",
+      "tole": "Dekocha"
+    },
+    "gender": "Male",
+    "bloodGroup": "A+",
+    "height": "175 cm",
+    "weight": "70 kg"
+},
   {
-    "username": "user2",
-    "dob": "1999-01-01",
-    "yearFormat": null
-  },
+  "name": "Rohan",
+  "image": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "dob": "null",
+  "yearFormat": "ad",
+  "address": {
+      "province": "Bagmati",
+      "district": "Bagmati",
+      "city": "Kathmandu",
+      "wardNum": "10",
+      "tole": "Baneshwor"
+    },
+    "gender": "Male",
+    "bloodGroup": "0+",
+    "height": "180 cm",
+    "weight": "75 kg"
+},
   {
-    "username": "user3",
-    "dob": null,
-    "yearFormat": "bs"
-  }
+  "name": "Sandhya",
+  "image": "https://plus.unsplash.com/premium_photo-1689266188052-704d33673e69?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "dob": "2055-10-10",
+  "yearFormat": "bs",
+  "address": {
+      "province": "Gandaki",
+      "district": "Gandaki",
+      "city": "Pokhara",
+      "wardNum": "5",
+      "tole": "Newroad"
+    },
+    "gender": "Female",
+    "bloodGroup": "B+",
+    "height": "170 cm",
+    "weight": "65 kg"
+}
 ]
