@@ -4,6 +4,8 @@
   "image": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   "dob": "2000-01-01",
   "yearFormat": "ad",
+  "email": "sanish@gmail.com",
+  "bio": "abcdefgh",
   "address": {
       "province": "Bagmati",
       "district": "Bhaktapur",
@@ -21,6 +23,8 @@
   "image": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   "dob": "null",
   "yearFormat": "ad",
+  "email": "rohan@gmail.com",
+  "bio": "abcdefgh", 
   "address": {
       "province": "Bagmati",
       "district": "Bagmati",
@@ -38,6 +42,8 @@
   "image": "https://plus.unsplash.com/premium_photo-1689266188052-704d33673e69?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   "dob": "2055-10-10",
   "yearFormat": "bs",
+  "email": "sandhya@gmail.com",
+  "bio": "abcdefgh", 
   "address": {
       "province": "Gandaki",
       "district": "Gandaki",
